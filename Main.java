@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, Version Control!");
+        System.out.println("Hello!");
         System.out.println("Ini adalah praktik Git untuk Modul 3");
     }
 }
